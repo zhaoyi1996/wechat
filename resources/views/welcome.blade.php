@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    欢迎来到我的地牌。
                 </div>
 
                 <div class="links">
